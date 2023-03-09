@@ -1,0 +1,27 @@
+/* pre {
+    outline: 1px solid rgba(50, 255, 50, 0.2);
+    padding: 5px;
+    margin: 5px;
+    font-family: "IBM Plex Mono";
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+pre  .string {
+    color: rgb(211, 55, 235);
+}
+
+pre .number {
+    color: darkorange;
+}
+
+pre .boolean {
+    color: rgb(0, 173, 26);
+}
+
+pre .null {
+    color: rgb(114, 129, 114);
+}
+
+pre .key {
+    color: rgb(243, 223, 4);
+} */
