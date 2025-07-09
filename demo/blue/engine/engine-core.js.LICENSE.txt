@@ -1,0 +1,85 @@
+/**
+ * @license
+ * Copyright 2010-2022 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+//!!
+
+//!! Add shape to body
+
+//!! Add shape to the body
+
+//!! Add the contact materials to the world
+
+//!! Add the new_body to graphics and physics
+
+//!! COLLIDERS
+
+//!! CONE COLLIDERS
+
+//!! CREATE SHAPE
+
+//!! Create faces and add to their parent, the new_actor group.
+
+//!! Create shape
+
+//!! Cylinder( radiusTop, radiusBottom, height , numSegments )
+
+//!! Get intersection objects
+
+//!! Lamp, Camera and others are ignored
+
+//!! Make Y up to match to the THREE
+
+//!! Material #1
+
+//!! Material #2
+
+//!! Meshes (a group contains more than one meshes)
+
+//!! Meshes and Groups
+
+//!! Multiple materials object. Note: faces/meshes of multiple materials/textures are added in a group
+
+//!! Must be called to allow limits
+
+//!! Note: The userData is defined in Blender. (Object data -> Custom Properties)
+
+//!! Position and Rotation
+
+//!! Position and Rotation of the new_body
+
+//!! Positioning
+
+//!! Remove Empty Scenes
+
+//!! Remove body
+
+//!! Remove children
+
+//!! Remove constraints attached to the body
+
+//!! Remove mesh
+
+//!! Shape Position Offset
+
+//!! TEST
+
+//!! THREE.Group is the Multi-texture object
+
+//!! THREE.Mesh is the Single-texture object
+
+//!! These are not requird
+
+//!! Update meshes
+
+//!! X-Axes
+
+//!! Y-Axes not required for the cylinder
+
+//!! Z-Axis
+
+//!! friction coefficient
+
+//!!Cylinder( radiusTop, radiusBottom, height , numSegments )
