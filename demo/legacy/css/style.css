@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Rajdhani);
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333333;
+
+
+    /* font-family: 'Ubuntu Condensed', sans-serif; */
+    /* font-family: monospace; */
+}
+
+#c {
+    width: 100%;
+    height: 100%;
+}
+
+.object_label {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.5);
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.object_label_yellow {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rgba(253, 126, 8, 0.959);
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.blue_text {
+    color: rgb(0, 217, 255);
+}
