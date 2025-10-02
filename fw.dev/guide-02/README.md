@@ -4,7 +4,7 @@ This folder contains essential documentation for FreeRTOS task development and i
 
 ## 📋 Documentation
 
-### [FreeRTOS Naming Convention Guide](./FreeRTOS%20Naming%20Convention%20Guide.md)
+### [FreeRTOS Naming Convention Guide](./freertos-naming-convention-guide.md)
 
 A comprehensive guide covering the systematic prefix scheme used in FreeRTOS for functions, variables, and data types. This guide helps ensure consistent and readable code by following established naming patterns.
 
@@ -16,7 +16,7 @@ A comprehensive guide covering the systematic prefix scheme used in FreeRTOS for
 - Macro and constant naming
 - Best practices for maintainable code
 
-### [FreeRTOS Task Design Template](./FreeRTOS%20Task%20Design%20Template.md)
+### [FreeRTOS Task Design Template](./freertos-task-design-template.md)
 
 A structured template for documenting task design before implementation. This template serves as both a design document and a reference for code reviews.
 
@@ -29,7 +29,7 @@ A structured template for documenting task design before implementation. This te
 - Error handling strategies
 - Testing and validation criteria
 
-### [FreeRTOS Static Objects Guide](./FreeRTOS%20Static%20Objects%20Guide.md)
+### [FreeRTOS Static Objects Guide](./freertos-static-objects-guide.md)
 
 A comprehensive guide for implementing static FreeRTOS objects in medical device firmware. This guide covers deterministic memory allocation, safety-critical considerations, and compliance requirements.
 
@@ -42,7 +42,7 @@ A comprehensive guide for implementing static FreeRTOS objects in medical device
 - Stack monitoring and timing verification
 - Complete implementation examples
 
-### [FreeRTOS Queue Guide](./FreeRTOS%20Queue%20Guide.md)
+### [FreeRTOS Queue Guide](./freertos-queue-guide.md)
 
 A comprehensive guide for using FreeRTOS queues effectively in medical device firmware. This unified guide covers queue implementation, best practices, configuration, operations, error handling, and performance optimization.
 
@@ -63,8 +63,8 @@ A comprehensive guide for using FreeRTOS queues effectively in medical device fi
 
 ## 🚀 Getting Started
 
-1. **For new tasks**: Start with the [Task Design Template](./FreeRTOS%20Task%20Design%20Template.md) to plan your implementation
-2. **For static allocation**: Follow the [Static Objects Guide](./FreeRTOS%20Static%20Objects%20Guide.md) for medical device compliance
-3. **For queue implementation**: Use the [Queue Guide](./FreeRTOS%20Queue%20Guide.md) for reliable inter-task communication
-4. **For naming consistency**: Reference the [Naming Convention Guide](./FreeRTOS%20Naming%20Convention%20Guide.md) throughout development
+1. **For new tasks**: Start with the [Task Design Template](./freertos-task-design-template.md) to plan your implementation
+2. **For static allocation**: Follow the [Static Objects Guide](./freertos-static-objects-guide.md) for medical device compliance
+3. **For queue implementation**: Use the [Queue Guide](./freertos-queue-guide.md) for reliable inter-task communication
+4. **For naming consistency**: Reference the [Naming Convention Guide](./freertos-naming-convention-guide.md) throughout development
 5. Use all four documents together to ensure well-designed, maintainable, and safety-compliant FreeRTOS applications

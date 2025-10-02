@@ -6,7 +6,7 @@ permalink: /
 
 # Documentation-specific settings
 show_excerpts: true
-show_downloads: true
+show_downloads: false
 github_username: drsanti
 
 # Navigation

@@ -6,10 +6,10 @@ This guide covers the implementation and best practices for using static FreeRTO
 
 For detailed implementation examples and usage patterns, see these specialized guides:
 
-- **[FreeRTOS Queue Guide](FreeRTOS%20Queue%20Guide.md)** - Comprehensive queue implementation with producer-consumer patterns, ISR communication, and command-response patterns
-- **[FreeRTOS Event Group Guide](FreeRTOS%20Event%20Guide.md)** - Event group usage patterns, task synchronization, and state management
-- **[FreeRTOS Task Design Template](FreeRTOS%20Task%20Design%20Template.md)** - Task design patterns and templates
-- **[FreeRTOS Naming Convention Guide](FreeRTOS%20Naming%20Convention%20Guide.md)** - Consistent naming conventions
+- **[FreeRTOS Queue Guide](freertos-queue-guide.md)** - Comprehensive queue implementation with producer-consumer patterns, ISR communication, and command-response patterns
+- **[FreeRTOS Event Group Guide](freertos-event-group-guide.md)** - Event group usage patterns, task synchronization, and state management
+- **[FreeRTOS Task Design Template](freertos-task-design-template.md)** - Task design patterns and templates
+- **[FreeRTOS Naming Convention Guide](freertos-naming-convention-guide.md)** - Consistent naming conventions
 
 ---
 
@@ -66,7 +66,7 @@ BaseType_t xCreateStaticQueue(void)
 }
 ```
 
-**📋 For comprehensive queue examples and usage patterns, see: [FreeRTOS Queue Guide](FreeRTOS%20Queue%20Guide.md)**
+**📋 For comprehensive queue examples and usage patterns, see: [FreeRTOS Queue Guide](freertos-queue-guide.md)**
 
 **Memory Layout:**
 ```c
@@ -216,7 +216,7 @@ BaseType_t xCreateStaticEventGroup(void)
 }
 ```
 
-**📋 For comprehensive event group examples and usage patterns, see: [FreeRTOS Event Group Guide](FreeRTOS%20Event%20Guide.md)**
+**📋 For comprehensive event group examples and usage patterns, see: [FreeRTOS Event Group Guide](freertos-event-group-guide.md)**
 
 ---
 

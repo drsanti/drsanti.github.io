@@ -6,10 +6,10 @@ This guide covers comprehensive queue implementation and best practices for medi
 
 For detailed implementation examples and usage patterns, see these specialized guides:
 
-- **[FreeRTOS Static Objects Guide](FreeRTOS%20Static%20Objects%20Guide.md)** - Static allocation patterns, memory management, and safety-critical considerations
-- **[FreeRTOS Event Group Guide](FreeRTOS%20Event%20Group%20Guide.md)** - Event group usage patterns, task synchronization, and state management
-- **[FreeRTOS Task Design Template](FreeRTOS%20Task%20Design%20Template.md)** - Task design patterns and templates
-- **[FreeRTOS Naming Convention Guide](FreeRTOS%20Naming%20Convention%20Guide.md)** - Consistent naming conventions
+- **[FreeRTOS Static Objects Guide](freertos-static-objects-guide.md)** - Static allocation patterns, memory management, and safety-critical considerations
+- **[FreeRTOS Event Group Guide](freertos-event-group-guide.md)** - Event group usage patterns, task synchronization, and state management
+- **[FreeRTOS Task Design Template](freertos-task-design-template.md)** - Task design patterns and templates
+- **[FreeRTOS Naming Convention Guide](freertos-naming-convention-guide.md)** - Consistent naming conventions
 
 ---
 
