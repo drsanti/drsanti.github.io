@@ -1,5 +1,23 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: drsanti's homepage
-description: Bookmark this to keep an eye on my project updates!
-layout: page
+description: Firmware Development Documentation & Resources
+layout: default
 permalink: /
+
+# Documentation-specific settings
+show_excerpts: true
+show_downloads: true
+github_username: drsanti
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Firmware Guides
+    url: /fw.dev/guide-01/
+  - title: FreeRTOS Tasks
+    url: /fw.dev/guide-02/
+  - title: Demos
+    url: /demo/
+  - title: About
+    url: /about/

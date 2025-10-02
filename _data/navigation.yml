@@ -1,0 +1,10 @@
+- title: Home
+  url: /
+- title: Firmware Standards
+  url: /fw.dev/guide-01/
+- title: FreeRTOS Tasks
+  url: /fw.dev/guide-02/
+- title: 3D Demos
+  url: /demo/
+- title: About
+  url: /about/

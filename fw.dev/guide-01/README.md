@@ -1,7 +1,3 @@
-[« Previous](./Security_OTA_DFU_Versioning.md) | [Index](./index.md) | [Next »](./Static_Allocation.md)
-
----
-
 # Firmware Coding Standards — Index (FreeRTOS)
 
 This index lists all sub-standards. Each section is a self-contained document with rules, checklists, CI gates, and examples.
@@ -10,9 +6,9 @@ This index lists all sub-standards. Each section is a self-contained document wi
 
 ---
 
-[Firmware Coding Quick Reference](./Quick_Reference.md)
+- [Firmware Coding Quick Reference](./Quick_Reference.md)
 
-[Review Checklist & CI Gates](./Review_Checklist.md)
+- [Review Checklist & CI Gates](./Review_Checklist.md)
 
 ---
 
@@ -60,7 +56,3 @@ This index lists all sub-standards. Each section is a self-contained document wi
 
 - [Firmware Coding Standard — Logging, Diagnostics & Telemetry (FreeRTOS)](./Logging_Diagnostics_Telemetry.md)
 - [Firmware Coding Standard — Security, OTA/DFU & Versioning (FreeRTOS)](./Security_OTA_DFU_Versioning.md)
-
----
-
-[« Previous](./Security_OTA_DFU_Versioning.md) | [Index](./index.md) | [Next »](./Static_Allocation.md)

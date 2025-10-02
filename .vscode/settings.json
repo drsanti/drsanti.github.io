@@ -1,3 +1,22 @@
 {
-	"cSpell.words": ["Jamjuree"]
+  "cSpell.words": [
+    "drsanti",
+    "drsanti's",
+    "edata",
+    "Jamjuree",
+    "JTAG",
+    "malloc",
+    "MISRA",
+    "NVIC",
+    "qstore",
+    "sdata",
+    "semphr",
+    "SYSCALL",
+    "Tickless",
+    "Timebase",
+    "uart",
+    "UART",
+    "uintptr",
+    "WCET"
+  ]
 }
